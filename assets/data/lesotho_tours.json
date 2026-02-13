@@ -1,0 +1,79 @@
+{
+  "tours": [
+    {
+      "id": "maseru_arrival",
+      "title": "Welcome to Maseru",
+      "lat": -29.3142,
+      "lon": 27.4833,
+      "radius": 500,
+      "audio": "assets/audio/maseru_welcome.mp3",
+      "image": "assets/images/lesotho/maseru.jpg",
+      "description": "You're in Maseru, the capital of the Kingdom in the Sky. Founded in 1869 as a trading post, today it's a vibrant hub of Basotho culture and modern Lesotho life.",
+      "facts": [
+        "Historical: Named after the red sandstone 'red rock' nearby.",
+        "Modern: Home to the National University of Lesotho and weekly craft markets."
+      ],
+      "nearby_suggestions": ["Thaba-Bosiu (20km east)", "Ha Kome Caves (40km north)"]
+    },
+    {
+      "id": "thaba_bosiu",
+      "title": "Thaba-Bosiu National Monument",
+      "lat": -29.3667,
+      "lon": 27.7333,
+      "radius": 300,
+      "audio": "assets/audio/thaba_bosiu.mp3",
+      "image": "assets/images/lesotho/thaba_bosiu.jpg",
+      "description": "The Mountain of Night – birthplace of the Basotho nation. King Moshoeshoe I's 1824 fortress was never conquered.",
+      "facts": [
+        "Historical: Symbol of unity during the Lifaqane wars.",
+        "Modern: UNESCO tentative site with cultural village and hiking."
+      ],
+      "nearby_suggestions": ["Maseru (20km west)", "Morija Museum (35km south)"]
+    },
+    {
+      "id": "maletsunyane_falls",
+      "title": "Maletsunyane Falls",
+      "lat": -29.8667,
+      "lon": 28.0167,
+      "radius": 400,
+      "audio": "assets/audio/maletsunyane.mp3",
+      "image": "assets/images/lesotho/maletsunyane.jpg",
+      "description": "Africa's highest single-drop waterfall at 192m. Sacred to the Basotho, now a world-class abseiling site.",
+      "facts": [
+        "Historical: Legends of water spirits.",
+        "Modern: Semonkong Lodge offers pony treks and the longest commercial abseil."
+      ],
+      "nearby_suggestions": ["Katse Dam (60km north)", "Sani Pass (45km east)"]
+    },
+    {
+      "id": "katse_dam",
+      "title": "Katse Dam",
+      "lat": -29.3333,
+      "lon": 28.5000,
+      "radius": 500,
+      "audio": "assets/audio/katse_dam.mp3",
+      "image": "assets/images/lesotho/katse.jpg",
+      "description": "Africa's second-largest arch dam (1996). Part of the Lesotho Highlands Water Project.",
+      "facts": [
+        "Historical: Engineering marvel from post-independence era.",
+        "Modern: Supplies water to Gauteng and generates hydro-power."
+      ],
+      "nearby_suggestions": ["Ts'ehlanyane National Park (30km)", "Maletsunyane Falls (60km)"]
+    },
+    {
+      "id": "sehlabathebe",
+      "title": "Sehlabathebe National Park",
+      "lat": -29.8833,
+      "lon": 29.1167,
+      "radius": 800,
+      "audio": "assets/audio/sehlabathebe.mp3",
+      "image": "assets/images/lesotho/sehlabathebe.jpg",
+      "description": "UNESCO World Heritage site with 2,000-year-old San rock art and dramatic Drakensberg scenery.",
+      "facts": [
+        "Historical: Ancient hunter-gatherer homeland.",
+        "Modern: Pristine hiking, birdwatching, and stargazing."
+      ],
+      "nearby_suggestions": ["Sani Pass (25km)", "Sehlabathebe border (near South Africa)"]
+    }
+  ]
+}
